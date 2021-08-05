@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Name: - L Prathyusha, reg no: 19111344</title>
+  <title> WSDA</title>
+</head>
+
+<body>
+  <h1>Data is a fundamental piece of any exploration, possibly it tends to be scholarly,
+showcasing or logical. Individuals may need to gather and examine information from
+numerous sites. The various sites which have a place with the particular class shows
+data in various organizations. Indeed, even with a solitary site you will be unable to
+see all the information without a delay.
+Web scraping is basically a process through which the system uses bots to
+extract the data or the information from a website. Unlike screen scraping, which
+only copies pixels displayed onscreen, web scraping extracts underlying HTML code
+and, with it, data stored in a database.</h1>
+ 
+ <p>
+Tools: -
+-Import.io
+-scraping bee
+-Octoparse
+-Scrapy
+-Mozenda
+-Visual Web Ripper</p>
+</body>
+
+<img src="‪C:\Users\Prathyu Lachireddy\Desktop\download.jpg" alt="Web Scraping" width="470" height="317">
+
+</html>
